@@ -35,7 +35,7 @@ Through filtering the manufacturers by top 5 by [Recall Count] and the component
 
 ## Question 2:
 
-Question Part 1: Since vehicles and equipment are the most frequently recalled items, which of our “major brands” have the highest number of recalls in these categories? ## Question Part 2: For the top three brands, what specific components are most commonly found to be faulty?
+Question Part 1: Since vehicles and equipment are the most frequently recalled items, which of our “major brands” have the highest number of recalls in these categories? Question Part 2: For the top three brands, what specific components are most commonly found to be faulty?
 
 ## Importance: Part 1: 
 Understanding which major brands have the most commonly faulty components helps us pinpoint recurring issues, assess potential risks, and guide quality control efforts, as well as help maintain brand reputation. 
