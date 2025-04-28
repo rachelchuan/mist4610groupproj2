@@ -7,7 +7,7 @@
 1. Sophie Naustdal https://github.com/sophienaustdal/MIST4610GroupProject2.git
 2. Riley Cook https://github.com/rileyacook/4610Proj2 
 3. Rachel Chuan https://github.com/rachelchuan/mist4610groupproj2/blob/main/README.md
-5. Chidera Nwosu
+5. Chidera Nwosu https://github.com/chideranwosu15/MIST4610Proj2
 6. Coleman Vaughn https://github.com/Colemanv33/groupproject2
 
 ## Description of Dataset:
